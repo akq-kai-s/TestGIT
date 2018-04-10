@@ -3,3 +3,4 @@ IF Test1
 ELSE
 	STOP RUN.
 END-IF
+STOP RUN.
