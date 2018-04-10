@@ -1,6 +1,6 @@
 IF Test1
 	CONTINUE
 ELSE
-	STOP RUN.
+	I = I + 2
 END-IF
 STOP RUN.
