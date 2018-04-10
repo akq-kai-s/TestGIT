@@ -3,4 +3,5 @@ IF Test1
 ELSE
 	I = I + 2
 END-IF
+DISPLAY I
 STOP RUN.
